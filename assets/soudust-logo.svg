@@ -1,49 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" role="img" aria-label="Soudust custom woodworking">
-  <rect width="760" height="240" rx="28" fill="#10130c"/>
-  <g transform="translate(124 120)">
-    <g fill="#d8a44a">
-      <polygon points="0,-82 9,-60 -9,-60"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(20)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(40)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(60)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(80)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(100)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(120)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(140)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(160)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(180)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(200)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(220)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(240)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(260)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(280)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(300)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(320)"/>
-      <polygon points="0,-82 9,-60 -9,-60" transform="rotate(340)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-label="Soudust LLC custom woodworking">
+  <defs>
+    <style>
+      .dark { fill: #3a2413; }
+      .line { fill: none; stroke: #3a2413; stroke-linecap: round; stroke-linejoin: round; }
+      .gold { fill: none; stroke: #c99d6c; stroke-linecap: round; stroke-linejoin: round; }
+      .type { fill: #3a2413; font-family: Georgia, "Times New Roman", serif; font-weight: 800; }
+      .mono { fill: #3a2413; font-family: "DM Mono", Menlo, Consolas, monospace; font-weight: 500; }
+    </style>
+  </defs>
+
+  <g transform="translate(450 352)">
+    <path class="line" stroke-width="36" d="M-316 -9a318 318 0 0 1 632 0"/>
+    <path class="line" stroke-width="36" d="M-308 102a318 318 0 0 0 616 0"/>
+    <path class="line" stroke-width="10" d="M-282 -9a282 282 0 0 1 564 0"/>
+    <path class="line" stroke-width="10" d="M-275 103a282 282 0 0 0 550 0"/>
+    <path class="line" stroke-width="4" opacity="0.65" d="M-310 -37c22 -8 29 -2 48 -10 24 -10 37 1 59 -9 22 -10 33 -1 54 -8 22 -8 34 2 56 -5 28 -9 41 8 70 -1 32 -10 47 11 76 0 24 -9 36 7 58 2 23 -6 34 8 54 2 24 -7 34 8 57 5 28 -4 41 14 69 16"/>
+    <path class="line" stroke-width="4" opacity="0.65" d="M-304 126c20 9 31 2 48 10 25 12 40 -2 62 9 22 11 36 -5 56 5 24 12 39 -5 62 5 28 12 43 -7 71 1 32 9 47 -12 75 -1 26 10 39 -8 62 -2 24 7 36 -8 58 -2 25 7 39 -11 64 -8 26 3 39 -15 60 -16"/>
+
+    <g opacity="0.82">
+      <path class="gold" stroke-width="7" d="M-245 -6a245 245 0 0 1 490 0"/>
+      <path class="gold" stroke-width="7" d="M-245 103a245 245 0 0 0 490 0"/>
+      <path class="gold" stroke-width="3" d="M-222 -4a222 222 0 0 1 444 0"/>
+      <path class="gold" stroke-width="3" d="M-222 101a222 222 0 0 0 444 0"/>
+      <path class="gold" stroke-width="2.5" d="M-200 -4a200 200 0 0 1 400 0"/>
+      <path class="gold" stroke-width="2.5" d="M-200 101a200 200 0 0 0 400 0"/>
+      <path class="gold" stroke-width="2" d="M-178 -4a178 178 0 0 1 356 0"/>
+      <path class="gold" stroke-width="2" d="M-178 101a178 178 0 0 0 356 0"/>
+      <path class="gold" stroke-width="2" d="M-155 -4a155 155 0 0 1 310 0"/>
+      <path class="gold" stroke-width="2" d="M-155 101a155 155 0 0 0 310 0"/>
+      <path class="gold" stroke-width="1.6" d="M-132 -4a132 132 0 0 1 264 0"/>
+      <path class="gold" stroke-width="1.6" d="M-132 101a132 132 0 0 0 264 0"/>
+      <path class="gold" stroke-width="1.4" d="M-110 -4a110 110 0 0 1 220 0"/>
+      <path class="gold" stroke-width="1.4" d="M-110 101a110 110 0 0 0 220 0"/>
+      <path class="gold" stroke-width="1.2" d="M-86 -4a86 86 0 0 1 172 0"/>
+      <path class="gold" stroke-width="1.2" d="M-86 101a86 86 0 0 0 172 0"/>
+      <path class="gold" stroke-width="1.1" d="M-64 -4a64 64 0 0 1 128 0"/>
+      <path class="gold" stroke-width="1.1" d="M-64 101a64 64 0 0 0 128 0"/>
     </g>
-    <circle r="64" fill="#d8a44a"/>
-    <circle r="47" fill="#10130c"/>
-    <circle r="12" fill="#c8f564"/>
-    <path d="M-30 -11c18 -16 42 -15 57 3" fill="none" stroke="#d8a44a" stroke-width="4.5" stroke-linecap="round"/>
-    <path d="M-27 14c15 11 36 12 53 -1" fill="none" stroke="#d8a44a" stroke-width="4.5" stroke-linecap="round"/>
-    <path d="M-4 -37c17 13 19 31 7 49" fill="none" stroke="#d8a44a" stroke-width="3.5" stroke-linecap="round" opacity="0.8"/>
+
+    <path class="gold" stroke-width="4" d="M-230 -4l-42 -54"/>
+    <path class="gold" stroke-width="4" d="M178 -6l29 -76"/>
+    <path class="gold" stroke-width="4" d="M252 48l57 -22"/>
+    <path class="gold" stroke-width="4" d="M-205 106l-42 55"/>
+    <path class="gold" stroke-width="4" d="M204 106l50 47"/>
   </g>
-  <g transform="translate(228 74)">
-    <text
-      x="0"
-      y="58"
-      fill="#f3f3ee"
-      font-family="Syne, Arial Black, Arial, sans-serif"
-      font-size="78"
-      font-weight="800"
-      letter-spacing="-4">soudust</text>
-    <path d="M2 91h360" stroke="#d8a44a" stroke-width="4" stroke-linecap="round"/>
-    <text
-      x="2"
-      y="125"
-      fill="#c8f564"
-      font-family="DM Mono, Menlo, Consolas, monospace"
-      font-size="19"
-      letter-spacing="4">CUSTOM WOODWORKING</text>
+
+  <g transform="translate(151 376)">
+    <text class="type" x="0" y="79" font-size="132" letter-spacing="10">S</text>
+    <text class="type" x="237" y="79" font-size="132" letter-spacing="10">UDUST</text>
+
+    <g transform="translate(159 31)">
+      <g class="dark">
+        <polygon points="0,-68 8,-48 -8,-48"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(20)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(40)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(60)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(80)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(100)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(120)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(140)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(160)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(180)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(200)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(220)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(240)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(260)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(280)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(300)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(320)"/>
+        <polygon points="0,-68 8,-48 -8,-48" transform="rotate(340)"/>
+      </g>
+      <circle r="52" class="dark"/>
+      <circle r="40" fill="#fbf7ed"/>
+      <circle r="7" fill="#c99d6c"/>
+      <circle r="16" fill="none" stroke="#c99d6c" stroke-width="4"/>
+      <circle r="27" fill="none" stroke="#c99d6c" stroke-width="4"/>
+      <circle r="37" fill="none" stroke="#c99d6c" stroke-width="4"/>
+    </g>
+  </g>
+
+  <path class="line" stroke-width="9" d="M106 492h688"/>
+  <g transform="translate(450 555)">
+    <path class="gold" stroke-width="6" d="M-112 0h41"/>
+    <text class="mono" x="-42" y="15" font-size="42" letter-spacing="24">LLC</text>
+    <path class="gold" stroke-width="6" d="M104 0h41"/>
   </g>
 </svg>
